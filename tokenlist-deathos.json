@@ -1,0 +1,45 @@
+{
+  "name": "Cross chain",
+  "logoURI": "ipfs://QmUSNbwUxUYNMvMksKypkgWs8unSm8dX2GjCPBVGZ7GGMr",
+  "keywords": [
+    "audited",
+    "verified",
+    "special tokens"
+  ],
+  "timestamp": "2024-03-07T02:00:00+00:00",
+  "tokens": [
+  "name": "deathOS",
+  "address": "0x119685fE98F37524E59A3E91f7108D6a693818F3",
+  "symbol": "DEATHOS",
+  "decimals": 18,
+  "chainId": 1,
+  "logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg",
+  "extensions": {
+    "bridgeInfo": {
+      "10": {
+        "tokenAddress": "0x119685fE98F37524E59A3E91f7108D6a693818F3"
+      }
+    }
+  }
+},
+"name": "Shame Soiree",
+"address": "0x94f4895426B03c47a4bbeA93C639af57a500fF8E",
+"symbol": "SHAME",
+"decimals": 18,
+"chainId": 8453,
+"logoURI": "ipfs://QmXttGpZrECX5qCyXbBQiqgQNytVGeZW5Anewvh2jc4psg",
+"extensions": {
+  "bridgeInfo": {
+    "7777777": {
+      "tokenAddress": "0x933c5eBaBb1E91CE611c1F23d98266f6Cdc8d34B"
+    }
+  }
+}
+},
+      ],
+      "version": {
+        "major": 1,
+        "minor": 0,
+        "patch": 0
+      }
+    }
