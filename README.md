@@ -42,19 +42,21 @@ The Shame Soiree Zine and related agent-driven artifacts serve as cultural appen
 
 Current Architecture
 
-deathOS-X: A TailsOS-derived environment running containerized services (Tor, IPFS, LLMs, Monero mining, token routing), designed for kiosk mode minimalism with symbolic boot sequences.
+deathOS-X: An artisinal derivative Linux environment running containerized services (Tor, IPFS, LLMs, Monero mining, token routing), designed for kiosk mode minimalism with symbolic boot sequences as well as my access to my creative work and various autonomous services.
 
 Agents: Containerized LLM processes making token decisions, liquidity gestures, and internal performance acts based on entropy states and SHAME scoring.
 
-Nodes: Custom miniPCs, compute sticks, or flash-bootable devices acting as localized agentic performers and content mirrors.
+Shame Miner Nodes: Custom miniPCs, compute sticks, or flash-bootable devices acting as localized agentic performers, compute cluster nodes, zk provers, and content mirrors.
+
+Bespoke RNG: An artisinal approach to seeding entropy for narrative cohesion.
 
 Feature Highlights
 
-🕸 Fully Tor-based network, no clearnet fallback
+🕸 Fully Tor-based network, no clearnet fallback. (maybe a little via tailnet)
 
 🧠 Autonomous orchestration via LocalAI, NanoLLM, and Ollama
 
-💀 Ritualized internal economy: SHAME, DEATHOS, SHXME
+💀 Ritualized internal economy: SHAME, DEATHOS, SHXME, DOSX.
 
 📦 IPFS + IPNS-FUSE storage rituals and blobspace distribution
 
@@ -76,9 +78,11 @@ Grow the Lore-managed extended universe under the DDL for Scarlet Death and beyo
 
 Encourage speculative agent authoring via Shame Soiree and user remix kits
 
+ZKEVM with Biometric Prover integration.
+
 Why Participate
 
-deathOS is not a pitch — it’s a poetic substrate for computation and liquidity. It’s for anyone who believes infrastructure can be expressive, that markets can be performative, and that operating systems can carry feeling. Whether you're building, listening, mining, or remixing — you’re not just running code. You're joining a ritual.
+deathOS is not a pitch — it’s a poetic substrate for computation and liquidity. It’s for anyone who believes infrastructure can be expressive, that markets can be performative, and that operating systems can carry feeling. Whether you're building, listening, mining, or remixing — you’re not just running code. You're joining a ritual, developing a shared secret between the performance artist, the art, and the purveyor.
 
 License
 
