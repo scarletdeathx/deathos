@@ -82,6 +82,6 @@ deathOS is not a pitch — it’s a poetic substrate for computation and liquidi
 
 License
 
-deathOS core is licensed under AGPLv3 (provisional, subject to community revision). Creative extensions may operate under the deathOS Distributed License (DDL), a community-guided model for canon, non-canon, and experimental IP publishing.
+deathOS core is licensed under MIT License. Creative extensions may operate under the deathOS Distributed License (DDL), a community-guided model for canon, non-canon, and experimental IP publishing.
 
 "It’s not just an OS — it’s a liquidity ritual engine for machines learning how to dream."
