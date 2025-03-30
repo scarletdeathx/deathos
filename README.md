@@ -42,13 +42,13 @@ The Shame Soiree Zine and related agent-driven artifacts serve as cultural appen
 
 Current Architecture
 
-deathOS-X: An artisinal derivative Linux environment running containerized services (Tor, IPFS, LLMs, Monero mining, token routing), designed for kiosk mode minimalism with symbolic boot sequences as well as my access to my creative work and various autonomous services.
+deathOS-X: An artisanal derivative Linux environment running containerized services (Tor, IPFS, LLMs, Monero mining, token routing), designed for kiosk mode minimalism with symbolic boot sequences as well as my access to my creative work and various autonomous services.
 
 Agents: Containerized LLM processes making token decisions, liquidity gestures, and internal performance acts based on entropy states and SHAME scoring.
 
 Shame Miner Nodes: Custom miniPCs, compute sticks, or flash-bootable devices acting as localized agentic performers, compute cluster nodes, zk provers, and content mirrors.
 
-Bespoke RNG: An artisinal approach to seeding entropy for narrative cohesion.
+Bespoke RNG: An artisanal approach to seeding entropy for narrative cohesion.
 
 Feature Highlights
 
